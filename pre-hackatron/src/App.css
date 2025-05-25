@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --color-bgYellow: #FCE1A5;
+    --color-mainBgGray: #DADADA;
+    --color-brightYellow: #E69F00;
+    --color-createAccountgray: #252525;
+}
